@@ -1,0 +1,19 @@
+.Form {
+  text-align: center;
+}
+
+.Form h2 {
+
+}
+
+.Form input{
+  width: 45%;
+  margin: 10px auto;
+  padding: 10px;
+  display: block;
+  border: none;
+  border-bottom: 3px solid white;
+  background-color: inherit;
+  color:white;
+  font-size: 2em;
+}
